@@ -1,4 +1,4 @@
-# Project 1 - Library - Brooke Picard
+# Project - Library - Brooke Picard
 User Functions:
 - Display user info
 - Search for book
